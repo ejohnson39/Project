@@ -1,0 +1,3 @@
+Madison,New York,12/05/2016|HA501
+Madison,New York,12/10/2016|HA502 
+Seattle,Madison,01/01/2016|HA503
